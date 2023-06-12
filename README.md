@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu portfólio de analista de dados! Este repositório contém a
 
 2. [Visualização](https://github.com/viniciussuares/portfolio/tree/main/2%20-%20Visualiza%C3%A7%C3%A3o): Nestes projetos, utilizo ferramentas como Excel e Power BI para visualizar tendências e descobertas, fornecendo aos usuários finais a liberdade de explorar e interagir com os dados e visualizações.
 
-3. [Comunicação](https://github.com/viniciussuares/portfolio/tree/main/3%20-%20Comunica%C3%A7%C3%A3o): Nestes projetos, você encontrará os produtos finais em formatos como PDF ou apresentações em vídeos.
+3. [Comunicação](https://github.com/viniciussuares/portfolio/tree/main/3%20%20-%20Comunica%C3%A7%C3%A3o): Nestes projetos, você encontrará os produtos finais em formatos como PDF ou apresentações em vídeos.
 
 ## Ferramentas e Tecnologias
 
