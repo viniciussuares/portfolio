@@ -15,7 +15,7 @@ Neste repositório, você encontrará três pastas principais, cada uma focada e
 
 1. **mvp_hackaohli**: Contém todos os arquivos originais utilizados durante a competição. Explore esta pasta para entender as bases do projeto.
    
-2. **power_bi_dashboards**: Hospeda os arquivos aprimorados da entrega final dos dashboards no Power BI. Recomendo começar pelo arquivo "[HackaOhliFinal].pbix" para explorar os dashboards interativos desenvolvidos.
+2. **power_bi_dashboards**: Hospeda os arquivos aprimorados da entrega final dos dashboards no Power BI. Recomendo começar pelo arquivo "[HackaOhliFinal].pbix" para explorar os dashboards interativos desenvolvidos. Se quiser acessar a versão interativa online, clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiZDA5MmIzYWMtZmMyZi00YmJlLThhNWYtMmUyNDJjZTc4YzJlIiwidCI6IjYwMGY5ZWI0LTJhZTktNGE3Mi05ZTUxLTM4YjAzZDBkMDRiYyJ9).
    
 3. **python_eda**: Reúne os scripts Python aprimorados para a análise exploratória de dados (EDA). Para uma compreensão detalhada da análise realizada, comece pelo Jupyter Notebook "[HackaOhliFInal].ipynb".
 
